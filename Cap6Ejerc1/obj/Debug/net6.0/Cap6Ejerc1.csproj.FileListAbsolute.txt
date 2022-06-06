@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\bin\Debug\net6.0\Cap6Ejerc1.exe
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\bin\Debug\net6.0\Cap6Ejerc1.deps.json
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\bin\Debug\net6.0\Cap6Ejerc1.runtimeconfig.json
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\bin\Debug\net6.0\Cap6Ejerc1.dll
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\bin\Debug\net6.0\Cap6Ejerc1.pdb
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.AssemblyInfo.cs
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.dll
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\refint\Cap6Ejerc1.dll
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.pdb
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\Cap6Ejerc1.genruntimeconfig.cache
+C:\Users\hp\Desktop\Aplicada 1\TareaB\Cap6Ejerc1\obj\Debug\net6.0\ref\Cap6Ejerc1.dll
